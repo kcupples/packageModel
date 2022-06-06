@@ -46,7 +46,7 @@
     </div>
   </aura:if>
 
-  <lightning:card iconName="utility:search" title="GIPHY Search Terms KC Updates Version 2">
+  <lightning:card iconName="utility:search" title="GIPHY Search Terms KC Updates Version 3 - New DevHub">
 
     <lightning:layout verticalAlign="end" class="path-to-zip slds-m-around--small">
       <lightning:layoutitem flexibility="grow">
