@@ -4,11 +4,14 @@
             "path": "force-app",
             "default": true,
             "package": "KC-Gifter",
-            "versionName": "Summer '20",
+            "versionName": "GifterPackage",
             "versionNumber": "1.2.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "50.0" 
- }
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "KC-Gifter": "0Ho6g000000CayTCAS"
+    }
+}
